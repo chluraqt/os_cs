@@ -1,0 +1,4 @@
+1. Open the provided GitHub link in your web browser.
+2. Clone the repository.
+3. Open the project in your IDE.
+4. Run the Python File.
